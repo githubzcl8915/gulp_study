@@ -1,0 +1,40 @@
+Arguments: 
+  F:\Web\node.js\node.exe F:\1905\nodejs\npm_global\node_modules\yarn\bin\yarn.js add gulp-minify-css --save-dev
+
+PATH: 
+  C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;F:\1905\nodejs\npm_global;F:\1905\nodejs\npm_global\node_modules;F:\Web\node.js\;D:\wamp64\bin\mysql\mysql5.7.14\bin;C:\WINDOWS\System32\OpenSSH\;D:\Ruby\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Users\lenovo\AppData\Local\Microsoft\WindowsApps;D:\software\Microsoft VS Code\bin;C:\Program Files\Bandizip\
+
+Yarn version: 
+  1.17.3
+
+Node version: 
+  12.9.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, copyfile 'C:\Users\lenovo\AppData\Local\Yarn\Cache\v4\npm-kind-of-5.1.0-729c91e2d857b7a419a1f9aa65685c4c33f5845d\node_modules\kind-of\index.js' -> 'D:\study_note\gulp\gulp_test\node_modules\define-property\node_modules\kind-of\index.js'
+
+npm manifest: 
+  {
+    "name": "gulp_test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "gulp": "^4.0.2",
+      "gulp-sass": "^4.1.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
